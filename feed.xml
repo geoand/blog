@@ -5,14 +5,14 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 9 Sep 2014 12:11:07 +0300</pubDate>
-    <lastBuildDate>Tue, 9 Sep 2014 12:11:07 +0300</lastBuildDate>
+    <pubDate>Tue, 9 Sep 2014 16:55:19 +0300</pubDate>
+    <lastBuildDate>Tue, 9 Sep 2014 16:55:19 +0300</lastBuildDate>
 
     <item>
-      <title>Fourth Post</title>
-      <link>http://jbake.org/blog/2013/fourth-post.html</link>
+      <title>Second Post</title>
+      <link>http://jbake.org/blog/2013/second-post.html</link>
       <pubDate>Thu, 17 Oct 2013 00:00:00 +0300</pubDate>
-      <guid isPermaLink="false">blog/2013/fourth-post.html</guid>
+      <guid isPermaLink="false">blog/2013/second-post.html</guid>
       <description>&amp;lt;div id=&amp;quot;preamble&amp;quot;&amp;gt;
 &amp;lt;div class=&amp;quot;sectionbody&amp;quot;&amp;gt;
 &amp;lt;div class=&amp;quot;paragraph&amp;quot;&amp;gt;
